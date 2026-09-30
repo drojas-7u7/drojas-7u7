@@ -29,24 +29,16 @@ Me interesa especialmente entender cómo funcionan las cosas por dentro, convert
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>01 // SecondSay</h3>
-
-<strong>AI Decision Auditing Platform</strong>
-
-<br><br>
-
-Plataforma para registrar decisiones generadas por IA, compararlas con revisiones humanas y analizar discrepancias manteniendo trazabilidad.
+<a href="https://github.com/drojas-7u7/SecondSay">
+  <img src="./assets-secondsay-cover.png" alt="SecondSay project cover" width="100%">
+</a>
 
 <br><br>
 
-<code>Python</code>
-<code>FastAPI</code>
-<code>PostgreSQL</code>
-<code>SQLAlchemy</code>
-<code>React</code>
-<code>LLMs</code>
+Plataforma para auditar decisiones generadas por IA, compararlas con revisión humana y mantener trazabilidad sobre el proceso.
 
 <br><br>
 
@@ -56,21 +48,13 @@ Plataforma para registrar decisiones generadas por IA, compararlas con revisione
 
 <td width="50%" valign="top">
 
-<h3>02 // Radar Tech España</h3>
-
-<strong>Tech Job Market Data Platform</strong>
-
-<br><br>
-
-Pipeline y dashboard interactivo para analizar ofertas tecnológicas publicadas en España y explorar distintos indicadores del mercado.
+<a href="https://github.com/drojas-7u7/radar-mercado-tech-espana">
+  <img src="./assets-radar-tech-espana-cover.png" alt="Radar Tech España project cover" width="100%">
+</a>
 
 <br><br>
 
-<code>Python</code>
-<code>Pandas</code>
-<code>Streamlit</code>
-<code>Plotly</code>
-<code>Docker</code>
+Pipeline y dashboard interactivo para analizar ofertas tecnológicas y explorar distintos indicadores del mercado español.
 
 <br><br>
 
@@ -79,25 +63,20 @@ Pipeline y dashboard interactivo para analizar ofertas tecnológicas publicadas 
 <a href="https://radar-mercado-tech-espana-t6vqbotubuzgoswrbxhlt9.streamlit.app/"><strong>Live demo ↗</strong></a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>03 // Métricas de Clasificación</h3>
-
-<strong>Interactive ML Learning App</strong>
+<a href="https://github.com/drojas-7u7/metricas-clasificacion">
+  <img src="./assets-metricas-clasificacion-cover.png" alt="Métricas de Clasificación project cover" width="100%">
+</a>
 
 <br><br>
 
 Aplicación web multijugador para aprender Accuracy, Precision, Recall y F1-Score mediante una dinámica interactiva.
-
-<br><br>
-
-<code>JavaScript</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>Socket.IO</code>
 
 <br><br>
 
@@ -109,20 +88,13 @@ Aplicación web multijugador para aprender Accuracy, Precision, Recall y F1-Scor
 
 <td width="50%" valign="top">
 
-<h3>04 // NLP Explorer</h3>
-
-<strong>Modern NLP Learning Lab</strong>
+<a href="https://github.com/drojas-7u7/nlp-explorer">
+  <img src="./assets-nlp-explorer-cover.png" alt="NLP Explorer project cover" width="100%">
+</a>
 
 <br><br>
 
 Proyecto interactivo para explorar tokenización, embeddings semánticos y fundamentos de NLP moderno.
-
-<br><br>
-
-<code>Python</code>
-<code>NLP</code>
-<code>Sentence Transformers</code>
-<code>Jupyter</code>
 
 <br><br>
 
@@ -131,10 +103,9 @@ Proyecto interactivo para explorar tokenización, embeddings semánticos y funda
 <a href="https://drojas-7u7.github.io/nlp-explorer/"><strong>Live demo ↗</strong></a>
 
 </td>
+
 </tr>
 </table>
-
-<br>
 
 ## // toolkit
 
