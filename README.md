@@ -131,26 +131,14 @@ Proyecto interactivo para explorar tokenización, embeddings semánticos y funda
 
 ## // current_arc
 
-```python
-current_arc = {
-    "training": "Desarrollo de Inteligencia Artificial · Somos F5",
-    "duration": "1250h",
-    "building_with": [
-        "Python",
-        "SQL",
-        "Git / GitHub",
-        "Databases",
-        "Backend",
-        "Data",
-        "Applied AI",
-    ],
-    "next_step": "Junior Software Development",
-}
-```
+**Training**  
+Desarrollo de Inteligencia Artificial · Somos F5 · 1250h
 
-Actualmente estoy reforzando mi perfil hacia oportunidades de desarrollo de software, especialmente relacionadas con **Python, backend y automatización**.
+**Building with**  
+`Python` · `SQL` · `Git/GitHub` · `Databases` · `Backend` · `Data` · `Applied AI`
 
-<br>
+**Next step**  
+Junior Software Development · Python · Backend · Automation
 
 ## // connect
 
